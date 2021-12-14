@@ -5,9 +5,6 @@ import org.palladiosimulator.somox.cipm.modelrefinement.parameters.loop.LoopData
 import org.palladiosimulator.somox.cipm.modelrefinement.parameters.rd.ResponseTimeDataSet;
 import org.palladiosimulator.somox.cipm.modelrefinement.parameters.rd.utilization.ResourceUtilizationDataSet;
 
-import org.palladiosimulator.somox.cipm.modelrefinement.parameters.SeffParameterEstimation;
-import org.palladiosimulator.somox.cipm.modelrefinement.parameters.ServiceCallDataSet;
-
 /**
  * This interface summarizes the monitoring data sets needed for the {@link SeffParameterEstimation}. 
  * The records of the loop, branch and response time reverence records of the service call data set.

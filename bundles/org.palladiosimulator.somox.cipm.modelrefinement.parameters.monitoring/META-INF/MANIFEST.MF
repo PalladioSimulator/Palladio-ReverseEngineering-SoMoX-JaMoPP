@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CIPM Monitoring Records
+Bundle-SymbolicName: org.palladiosimulator.somox.cipm.modelrefinement.parameters.monitoring
+Bundle-Version: 5.1.0.qualifier
+Automatic-Module-Name: cipm.monitoring
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.palladiosimulator.somox.cipm.modelrefinement.parameters.monitoring,
+ org.palladiosimulator.somox.cipm.modelrefinement.parameters.monitoring.records

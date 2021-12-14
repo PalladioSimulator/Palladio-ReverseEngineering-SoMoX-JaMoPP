@@ -5,12 +5,12 @@ Bundle-SymbolicName: org.palladiosimulator.somox.cipm.modelrefinement.parameters
 Bundle-Version: 5.1.0.qualifier
 Automatic-Module-Name: tools.vitruv.applications.pcmjava.modelrefinement.parameters
 Bundle-RequiredExecutionEnvironment: JavaSE-11
-Require-Bundle: org.junit;bundle-version="4.8.1",
+Require-Bundle: 
  org.apache.log4j;bundle-version="1.2.15",
  org.eclipse.emf.ecore.xmi;bundle-version="2.13.0",
  org.eclipse.emf.ecore,
  org.eclipse.emf.common,
- org.palladiosimulator.pcm;bundle-version="5.0.0"
+ org.palladiosimulator.pcm;bundle-version="5.1.0"
 Bundle-ClassPath: target/classes/,
  target/dependency/arpack_combined_all.jar,
  target/dependency/bounce.jar,
