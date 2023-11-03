@@ -25,10 +25,10 @@
         </location>
         <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="false" refresh="true" type="InstallableUnit">
             <unit id="org.emftext.language.java.feature.feature.group" version="0.0.0"/>
-            <repository location="https://updatesite.palladio-simulator.com/palladio-supporting-eclipsejavadevelopmenttools/nightly/"/>
+            <repository location="https://updatesite.palladio-simulator.com/palladio-supporting-eclipsejavadevelopmenttools/branches/testingDay5.2.0/"/>
         </location>
         <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="false" type="InstallableUnit">
-            <repository location="https://download.eclipse.org/releases/2022-12/202212071000/"/>
+            <repository location="https://download.eclipse.org/releases/2023-03/202303151000/"/>
 	        <unit id="org.eclipse.gmf.feature.group" version="0.0.0"/>
 	        <unit id="org.eclipse.emf.sdk.feature.group" version="0.0.0"/>
 			<unit id="org.apache.commons.io" version="0.0.0"/>
